@@ -9,12 +9,9 @@ import { useWindowDimensions } from "./hookCustom/Dimensions";
 // import Article from './components/article/Article';
 
 function App() {
-  // const [showMovies1, setShowMovies1] = useState(false);
   const [selectMovie, setSelectMovie] = useState(null);
   console.log("selectMovie:", selectMovie);
-
-  // const [showMovies2, setShowMovies2] = useState(false);
-  // const [showMovies3, setShowMovies3] = useState(false);
+  const [source, setSource] = useState(null);
   const [showTitle, setShowTitle] = useState(true);
   const [dim, setDim] = useState({});
   console.log("dim in app:", dim);
@@ -22,24 +19,38 @@ function App() {
   //   return () => window.addEventListener("load", setDimensions(setDim));
   // }, [window]);
   useWindowDimensions(setDim);
+  useEffect(() => {
+    movies.map((el, index) => {
+      console.log("el:", el);
+      if (index === selectMovie) {
+        const backImg = el.background;
+        setSource(
+          document.documentElement.style.setProperty("--backImg", backImg)
+        );
+      }
+    });
+  }, [selectMovie]);
 
   return (
     <div className="boxMovies">
       <header>
-        {movies.map((movie, index) => {
-          return (
-            <button
-              onClick={() => {
-                setSelectMovie(index);
-                setShowTitle(false);
-                // console.log('click');
-              }}
-              key={index}
-            >
-              {movies[index].name}
-            </button>
-          );
-        })}
+        <div className="wrapper">
+          {movies.map((movie, index) => {
+            return (
+              <button
+                onClick={() => {
+                  setSelectMovie(index);
+                  setShowTitle(false);
+                  // console.log('click');
+                }}
+                key={index}
+                class={selectMovie === null ? "btnMovie" : "btnSlctMovie"}
+              >
+                {movies[index].name}
+              </button>
+            );
+          })}
+        </div>
       </header>
       <Title
         title="Merci de choisir un film !"
@@ -50,11 +61,11 @@ function App() {
         {selectMovie !== null && (
           <Fragment>
             <div className="container">
-              <Image
+              {/* <Image
                 src={movies[selectMovie].background}
                 alt={movies[selectMovie].name}
                 classImg="backgMovies"
-              />
+              /> */}
             </div>
             <div className="containerPicActors">
               {movies[selectMovie].actors.map((acteur) => {

@@ -7,11 +7,43 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
-
+header > .wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper {
+  max-width: 300px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+}
+.containerMovie {
+  background: #000;
+}
+.container {
+  width: 600px;
+  height: 100vh;
+  background-image: var(--backImg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .boxMovies {
   width: 100%;
   height: 100%;
   position: relative;
+  background: #002bff;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 43, 255, 1) 0%,
+    rgba(238, 174, 202, 1) 30%,
+    rgba(148, 187, 233, 1) 60%,
+    rgba(0, 43, 255, 1) 100%
+  );
 }
 
 .backgMovies {
@@ -42,10 +74,14 @@ button {
   border: 2px solid white;
   font-size: 0.85rem;
   font-weight: 700;
-  background-color: black;
   color: white;
 }
-
+.btnMovie {
+  background-color: rgba(0, 0, 0);
+}
+.btnSlctMovie {
+  background-color: rgba(0, 0, 0, 0.7);
+}
 .choice {
   background-color: black;
   color: white;
@@ -121,28 +157,17 @@ button:hover {
 }
 
 @media all and (min-width: 576px) {
+  .wrapper {
+    max-width: 500px;
+  }
 }
 
 @media all and (min-width: 768px) {
   .wrapper {
-    max-width: 700px;
+    max-width: 600px;
+    padding: 0 10px 0 10px;
   }
-}
-
-@media all and (min-width: 992px) {
-  .wrapper {
-    max-width: 900px;
-  }
-}
-
-@media all and (min-width: 1200px) {
-  .wrapper {
-    max-width: 1200px;
-  }
-}
-
-@media all and (min-width: 1400px) {
-  .wrapper {
-    max-width: 1300px;
+  .containerPicActors {
+    top: 70%;
   }
 }

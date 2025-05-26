@@ -2,69 +2,69 @@
   {
     "id": "112233",
     "name": "Harry Potter",
-    "background": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746538309/aGFycnlQb3R0ZXIvbml1a2NqbnFmZ3Noc3Zjbm1vaDc=/drilldown",
+    "background": "url(\"https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746538309/bW92aWVzRGlzcGxheS9oYXJyeVBvdHRlci9uaXVrY2pucWZnc2hzdmNubW9oNw==/drilldown\")",
     "actors": [
       {
         "name": "Harry",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746538310/aGFycnlQb3R0ZXIvcnl4amJxZ3QxdzVwb2RvMG1lYmE=/drilldown"
+        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746538310/bW92aWVzRGlzcGxheS9oYXJyeVBvdHRlci9yeXhqYnFndDF3NXBvZG8wbWViYQ==/drilldown"
       },
       {
         "name": "Ron",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746538310/aGFycnlQb3R0ZXIvemFrbWc0emQ1Y2hpdTF3NW0zaHI=/drilldown"
+        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746538310/bW92aWVzRGlzcGxheS9oYXJyeVBvdHRlci96YWttZzR6ZDVjaGl1MXc1bTNocg==/drilldown"
       },
       {
         "name": "Hermione",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746538384/aGFycnlQb3R0ZXIvYjk5Y2RuZjd3Y2xvYTZtMGNyZXI=/drilldown"
+        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746538384/bW92aWVzRGlzcGxheS9oYXJyeVBvdHRlci9iOTljZG5mN3djbG9hNm0wY3Jlcg==/drilldown"
       },
       {
         "name": "Hagrid",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746538309/aGFycnlQb3R0ZXIvdmlleHhva2ZjaHdnZmp0cm56dXA=/drilldown"
+        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746538309/bW92aWVzRGlzcGxheS9oYXJyeVBvdHRlci92aWV4eG9rZmNod2dmanRybnp1cA==/drilldown"
       }
     ]
   },
   {
     "id": "223344",
     "name": "Lord of the rings",
-    "background": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746537258/bG90ci9jcnZ0dmpjNTRpcnA4Nmlyc2d3ag==/drilldown",
+    "background": "url(\"https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1748216085/bW92aWVzRGlzcGxheS9sb3RyL2VmczF2bjN4N3Fwa2VocWwyNG5k/drilldown\")",
     "actors": [
       {
         "name": "Aragorn",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746537775/bG90ci9hcmFnb3Ju/drilldown"
+        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746537775/bW92aWVzRGlzcGxheS9sb3RyL2FyYWdvcm4=/drilldown"
       },
       {
         "name": "Legolas",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746537776/bG90ci90cWM1enhlYTdqOGxueHI4MHBzbQ==/drilldown"
+        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746537776/bW92aWVzRGlzcGxheS9sb3RyL3RxYzV6eGVhN2o4bG54cjgwcHNt/drilldown"
       },
       {
         "name": "Gollum",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746537878/bG90ci9nb2xsdW0=/drilldown"
+        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746537878/bW92aWVzRGlzcGxheS9sb3RyL2dvbGx1bQ==/drilldown"
       },
       {
         "name": "Boromir",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746537774/bG90ci9qeGZidGoyeG5hdGhnbXZnNjNxcg==/drilldown"
+        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746537774/bW92aWVzRGlzcGxheS9sb3RyL2p4ZmJ0ajJ4bmF0aGdtdmc2M3Fy/drilldown"
       }
     ]
   },
   {
     "id": "334455",
     "name": "Star Wars",
-    "background": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746534195/bW92aWVzRGlzcGxheS9yZXZlbmdlT2ZUaGVTaXRo/drilldown",
+    "background": "url(\"https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1748239287/bW92aWVzRGlzcGxheS9zdGFyd2Fycy9kemFtZHBnYnltNTRtOWlvZDlhcQ==/drilldown\")",
     "actors": [
       {
         "name": "Yoda",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746534453/bW92aWVzRGlzcGxheS95b2Rh/drilldown"
+        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746534453/bW92aWVzRGlzcGxheS9zdGFyd2Fycy95b2Rh/drilldown"
       },
       {
         "name": "Luke",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746534585/bW92aWVzRGlzcGxheS9sdWtl/drilldown"
+        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746534585/bW92aWVzRGlzcGxheS9zdGFyd2Fycy9sdWtl/drilldown"
       },
       {
         "name": "Anakin",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746534705/bW92aWVzRGlzcGxheS9hbmFraW4=/drilldown"
+        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746534705/bW92aWVzRGlzcGxheS9zdGFyd2Fycy9hbmFraW4=/drilldown"
       },
       {
         "name": "Obiwan",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746534886/bW92aWVzRGlzcGxheS9vYml3YW4=/drilldown"
+        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746534886/bW92aWVzRGlzcGxheS9zdGFyd2Fycy9vYml3YW4=/drilldown"
       }
     ]
   }
