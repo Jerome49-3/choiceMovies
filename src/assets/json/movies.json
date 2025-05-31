@@ -2,23 +2,23 @@
   {
     "id": "112233",
     "name": "Django Unchained",
-    "background": "url(\"https://asset.cloudinary.com/djk45mwhr/27835be6beac5a3a8e57dd73f9a29d0c\")",
+    "background": "url(\"https://res.cloudinary.com/djk45mwhr/image/upload/v1748687555/moviesDisplay/Django/diptufd74motx5cupuzb.jpg\")",
     "actors": [
       {
         "name": "Django",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746538310/bW92aWVzRGlzcGxheS9oYXJyeVBvdHRlci9yeXhqYnFndDF3NXBvZG8wbWViYQ==/drilldown"
+        "picture": "https://res.cloudinary.com/djk45mwhr/image/upload/fl_preserve_transparency/v1748687221/moviesDisplay/Django/synsmskvz5usi59st043.jpg"
       },
       {
-        "name": "Ron",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746538310/bW92aWVzRGlzcGxheS9oYXJyeVBvdHRlci96YWttZzR6ZDVjaGl1MXc1bTNocg==/drilldown"
+        "name": "Dr King Schultz",
+        "picture": "https://res.cloudinary.com/djk45mwhr/image/upload/t_600x800_Remplir/v1748687221/moviesDisplay/Django/qvtdfpnpky0diwzcuk1a.jpg"
       },
       {
-        "name": "Hermione",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746538384/bW92aWVzRGlzcGxheS9oYXJyeVBvdHRlci9iOTljZG5mN3djbG9hNm0wY3Jlcg==/drilldown"
+        "name": "Broomhilda Von Shaft",
+        "picture": "https://res.cloudinary.com/djk45mwhr/image/upload/t_600x800_Remplir/v1748687222/moviesDisplay/Django/cuu4yzh3yfqwpwgihacx.jpg"
       },
       {
-        "name": "Hagrid",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746538309/bW92aWVzRGlzcGxheS9oYXJyeVBvdHRlci92aWV4eG9rZmNod2dmanRybnp1cA==/drilldown"
+        "name": "Calvin Candie",
+        "picture": "https://res.cloudinary.com/djk45mwhr/image/upload/t_600x800_Remplir/v1748687221/moviesDisplay/Django/qttovwycgbl1h4bfaego.jpg"
       }
     ]
   },
