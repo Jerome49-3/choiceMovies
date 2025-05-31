@@ -2,7 +2,7 @@
   {
     "id": "112233",
     "name": "Harry Potter",
-    "background": "url(\"https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746538309/bW92aWVzRGlzcGxheS9oYXJyeVBvdHRlci9uaXVrY2pucWZnc2hzdmNubW9oNw==/drilldown\")",
+    "background": "url(\"https://res.cloudinary.com/djk45mwhr/image/upload/c_crop,ar_3:4/v1746538309/moviesDisplay/harryPotter/niukcjnqfgshsvcnmoh7.webp\")",
     "actors": [
       {
         "name": "Harry",
