@@ -1,11 +1,11 @@
 [
   {
     "id": "112233",
-    "name": "Harry Potter",
-    "background": "url(\"https://res.cloudinary.com/djk45mwhr/image/upload/c_crop,ar_3:4/v1746538309/moviesDisplay/harryPotter/niukcjnqfgshsvcnmoh7.webp\")",
+    "name": "Django Unchained",
+    "background": "url(\"https://asset.cloudinary.com/djk45mwhr/27835be6beac5a3a8e57dd73f9a29d0c\")",
     "actors": [
       {
-        "name": "Harry",
+        "name": "Django",
         "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746538310/bW92aWVzRGlzcGxheS9oYXJyeVBvdHRlci9yeXhqYnFndDF3NXBvZG8wbWViYQ==/drilldown"
       },
       {
