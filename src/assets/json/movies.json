@@ -25,30 +25,30 @@
   {
     "id": "223344",
     "name": "Lord of the rings",
-    "background": "url(\"https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1748216085/bW92aWVzRGlzcGxheS9sb3RyL2VmczF2bjN4N3Fwa2VocWwyNG5k/drilldown\")",
+    "background": "url(\"https://res.cloudinary.com/djk45mwhr/image/upload/t_600x800_Remplir/v1748216085/moviesDisplay/lotr/efs1vn3x7qpkehql24nd.webp\")",
     "actors": [
       {
         "name": "Aragorn",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746537775/bW92aWVzRGlzcGxheS9sb3RyL2FyYWdvcm4=/drilldown"
+        "picture": "https://res.cloudinary.com/djk45mwhr/image/upload/t_600x800_Remplir/v1746537775/moviesDisplay/lotr/aragorn.webp"
       },
       {
         "name": "Legolas",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746537776/bW92aWVzRGlzcGxheS9sb3RyL3RxYzV6eGVhN2o4bG54cjgwcHNt/drilldown"
+        "picture": "https://res.cloudinary.com/djk45mwhr/image/upload/t_600x800_Remplir/v1746537776/moviesDisplay/lotr/tqc5zxea7j8lnxr80psm.webp"
       },
       {
         "name": "Gollum",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746537878/bW92aWVzRGlzcGxheS9sb3RyL2dvbGx1bQ==/drilldown"
+        "picture": "https://res.cloudinary.com/djk45mwhr/image/upload/t_600x800_Remplir/v1746537878/moviesDisplay/lotr/gollum.png"
       },
       {
         "name": "Boromir",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746537774/bW92aWVzRGlzcGxheS9sb3RyL2p4ZmJ0ajJ4bmF0aGdtdmc2M3Fy/drilldown"
+        "picture": "https://res.cloudinary.com/djk45mwhr/image/upload/t_600x800_Remplir/v1746537774/moviesDisplay/lotr/jxfbtj2xnathgmvg63qr.jpg"
       }
     ]
   },
   {
     "id": "334455",
     "name": "Star Wars",
-    "background": "url(\"https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1748239287/bW92aWVzRGlzcGxheS9zdGFyd2Fycy9kemFtZHBnYnltNTRtOWlvZDlhcQ==/drilldown\")",
+    "background": "url(\"https://res.cloudinary.com/djk45mwhr/image/upload/v1748239287/moviesDisplay/starwars/dzamdpgbym54m9iod9aq.jpg\")",
     "actors": [
       {
         "name": "Yoda",
@@ -60,11 +60,11 @@
       },
       {
         "name": "Anakin",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746534705/bW92aWVzRGlzcGxheS9zdGFyd2Fycy9hbmFraW4=/drilldown"
+        "picture": "https://res.cloudinary.com/djk45mwhr/image/upload/t_600x800_Remplir/v1746534705/moviesDisplay/starwars/anakin.webp"
       },
       {
         "name": "Obiwan",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746534886/bW92aWVzRGlzcGxheS9zdGFyd2Fycy9vYml3YW4=/drilldown"
+        "picture": "https://res.cloudinary.com/djk45mwhr/image/upload/t_600x800_Remplir/v1746534886/moviesDisplay/starwars/obiwan.webp"
       }
     ]
   }
