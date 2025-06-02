@@ -15,10 +15,14 @@ function App() {
   const [showTitle, setShowTitle] = useState(true);
   const [dim, setDim] = useState({});
   console.log("dim in app:", dim);
+  const boxMovies = "boxMovies";
+  const smallBackgd = "smallBackgd";
+  const bigBackgd = "bigBackgd";
   // useEffect(() => {
   //   return () => window.addEventListener("load", setDimensions(setDim));
   // }, [window]);
-  useWindowDimensions(setDim);
+  useWindowDimensions(setDim, "load");
+  useWindowDimensions(setDim, "resize");
   useEffect(() => {
     movies.map((el, index) => {
       console.log("el:", el);
@@ -32,7 +36,13 @@ function App() {
   }, [selectMovie]);
 
   return (
-    <div className="boxMovies">
+    <div
+      className={
+        dim.width > 768
+          ? `${boxMovies} ${bigBackgd}`
+          : `${boxMovies} ${smallBackgd}`
+      }
+    >
       <header>
         <div className="wrapper">
           {movies.map((movie, index) => {

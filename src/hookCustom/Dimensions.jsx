@@ -20,7 +20,7 @@ const setDimensions = (setDim) => {
   }
 };
 
-export const useWindowDimensions = (setDim) => {
+export const useWindowDimensions = (setDim, listener) => {
   useEffect(() => {
     const handleResize = () => setDimensions(setDim);
 
@@ -28,9 +28,9 @@ export const useWindowDimensions = (setDim) => {
     handleResize();
 
     // Écoute de resize
-    window.addEventListener("resize", handleResize);
+    window.addEventListener(listener, handleResize);
 
     // Cleanup
-    return () => window.removeEventListener("resize", handleResize);
+    return () => window.removeEventListener(listener, handleResize);
   }, [setDim]);
 };

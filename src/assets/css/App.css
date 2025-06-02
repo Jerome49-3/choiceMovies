@@ -44,7 +44,12 @@ header > .wrapper {
     rgba(148, 187, 233, 1) 60%,
     rgba(0, 43, 255, 1) 100%
   );
-  background-image: url("https://res.cloudinary.com/djk45mwhr/image/upload/t_screen1080/v1748689214/Texture/w74ygtgj0coosacf9dpn.jpg");
+}
+.smallBackgd {
+  background-image: url("/public/images/bandeMovieIphone12.png");
+}
+.bigBackgd {
+  background-image: url("/public/images/bandeMovie.png");
 }
 
 .backgMovies {
