@@ -52,11 +52,11 @@
     "actors": [
       {
         "name": "Yoda",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746534453/bW92aWVzRGlzcGxheS9zdGFyd2Fycy95b2Rh/drilldown"
+        "picture": "https://res.cloudinary.com/djk45mwhr/image/upload/v1746534453/moviesDisplay/starwars/yoda.webp"
       },
       {
         "name": "Luke",
-        "picture": "https://res-console.cloudinary.com/djk45mwhr/thumbnails/v1/image/upload/v1746534585/bW92aWVzRGlzcGxheS9zdGFyd2Fycy9sdWtl/drilldown"
+        "picture": "https://res.cloudinary.com/djk45mwhr/image/upload/v1746534585/moviesDisplay/starwars/luke.webp"
       },
       {
         "name": "Anakin",
