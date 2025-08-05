@@ -119,11 +119,11 @@ button:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 400px;
+  width: 500px;
   /* background-color: red; */
-  gap: 10px;
+  gap: 20px;
   flex-wrap: wrap;
-  padding: 45px;
+  padding: 20px;
 }
 
 .boxPicActors {
@@ -137,8 +137,8 @@ button:hover {
 }
 
 .backgActors {
-  width: 130px;
-  height: 150px;
+  width: 150px;
+  height: 180px;
   object-fit: cover;
   border-radius: 10px;
   border: 2px solid grey;

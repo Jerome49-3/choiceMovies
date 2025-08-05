@@ -2,7 +2,9 @@ const Title = (props) => {
   const { title, classTxt } = props;
   return (
     <>
-      <h1 className={classTxt}>{title}</h1>
+      <div className={classTxt}>
+        <p>{title}</p>
+      </div>
     </>
   );
 };
