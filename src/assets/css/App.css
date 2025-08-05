@@ -146,16 +146,26 @@ button:hover {
 }
 
 .titleActors {
-  margin-top: -50px;
+  margin-top: -60px;
   background-color: black;
   color: white;
   border: 2px solid white;
   border-radius: 10px;
   width: 100px;
-  height: 30px;
+  height: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 10px;
+}
+.titleActors > p {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  text-align: center;
 }
 
 .hide {
